@@ -1,0 +1,1 @@
+enum Escala { um, dois, tres, quatro, cinco, seis }

@@ -1,0 +1,1 @@
+enum Turno { a, b, c }
